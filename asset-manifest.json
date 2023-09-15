@@ -1,24 +1,16 @@
 {
   "files": {
-    "main.css": "/benyahya_house/static/css/main.23a60d84.css",
-    "main.js": "/benyahya_house/static/js/main.a95a1af4.js",
+    "main.css": "/benyahya_house/static/css/main.e3fce3cf.css",
+    "main.js": "/benyahya_house/static/js/main.a8e7e941.js",
     "static/media/Chicago-style pizza.png": "/benyahya_house/static/media/Chicago-style pizza.d6f9c7a031b5b7640b33.png",
     "static/media/Submarine sandwich.png": "/benyahya_house/static/media/Submarine sandwich.7cef361f6fc46e1bf525.png",
-    "static/media/gall4.jpg": "/benyahya_house/static/media/gall4.c99854b29b7bc05b10c5.jpg",
     "static/media/wall.jpg": "/benyahya_house/static/media/wall.359e45642e4d0f57f5c7.jpg",
     "static/media/bread.png": "/benyahya_house/static/media/bread.313ee80aed44ba7aa40a.png",
-    "static/media/gall21.jpg": "/benyahya_house/static/media/gall21.5d958a008820ddcdd5ff.jpg",
     "static/media/birthday cake.png": "/benyahya_house/static/media/birthday cake.9492a9e8aa37061fd95d.png",
     "static/media/sliced wheat bread.png": "/benyahya_house/static/media/sliced wheat bread.033be077cdb4d36f1ef0.png",
     "static/media/gall3_h-stretch.jpg": "/benyahya_house/static/media/gall3_h-stretch.bdcdebad9c0c2b30a94e.jpg",
-    "static/media/gall7_big-stretch.jpg": "/benyahya_house/static/media/gall7_big-stretch.7bf015a665dc5f41c0c4.jpg",
     "static/media/Shawarma Hamburger.png": "/benyahya_house/static/media/Shawarma Hamburger.d583798b853ac7d201b1.png",
-    "static/media/gall9_h-stretch.jpg": "/benyahya_house/static/media/gall9_h-stretch.e2d5d62f52413548c34c.jpg",
-    "static/media/gall1.jpg": "/benyahya_house/static/media/gall1.a42e4cc38432000dd23c.jpg",
     "static/media/sandwich.png": "/benyahya_house/static/media/sandwich.050d9b98a9c856890e4a.png",
-    "static/media/gall2_v-stretch.jpg": "/benyahya_house/static/media/gall2_v-stretch.0ad2c2f1f1987d234396.jpg",
-    "static/media/gall17_h-stretch.jpg": "/benyahya_house/static/media/gall17_h-stretch.03505b6f4e4938383061.jpg",
-    "static/media/gall5.jpg": "/benyahya_house/static/media/gall5.5a1a60839a59b21864e6.jpg",
     "static/media/fruitcake.png": "/benyahya_house/static/media/fruitcake.ac2144ab5388a0c16efa.png",
     "static/media/ham sandwich.png": "/benyahya_house/static/media/ham sandwich.7b2e3a51f9c1c28e3424.png",
     "static/media/panini.png": "/benyahya_house/static/media/panini.142b7512da08bd9b73c4.png",
@@ -39,11 +31,11 @@
     "static/media/cake-img.png": "/benyahya_house/static/media/cake-img.044432e3f56104e7e661.png",
     "static/media/Logo1.JPG": "/benyahya_house/static/media/Logo1.6e7018c8446467d69745.JPG",
     "index.html": "/benyahya_house/index.html",
-    "main.23a60d84.css.map": "/benyahya_house/static/css/main.23a60d84.css.map",
-    "main.a95a1af4.js.map": "/benyahya_house/static/js/main.a95a1af4.js.map"
+    "main.e3fce3cf.css.map": "/benyahya_house/static/css/main.e3fce3cf.css.map",
+    "main.a8e7e941.js.map": "/benyahya_house/static/js/main.a8e7e941.js.map"
   },
   "entrypoints": [
-    "static/css/main.23a60d84.css",
-    "static/js/main.a95a1af4.js"
+    "static/css/main.e3fce3cf.css",
+    "static/js/main.a8e7e941.js"
   ]
 }
