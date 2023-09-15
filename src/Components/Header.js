@@ -7,7 +7,7 @@ const Header = ({setOpenCard, cardArr, setOpenLikedProdsModal}) => {
         <div className='header-l-side'>
         <i class="fa-regular fa-clock"></i><span>08:30am/10:00pm</span><a href='#productss'>Products</a>
         </div>
-        <img src={Logo} alt='' width='70px' height='70px' style={{transform: 'translateX(-40px)', borderRadius: 10}} />
+        <a href='/benyahya_house'><img src={Logo} alt='' width='70px' height='70px' style={{transform: 'translateX(-40px)', borderRadius: 10}} /></a>
         <div className='header-r-side' >
         <i class="fa-solid fa-basket-shopping card " onClick={() => setOpenCard(true)}>{cardArr.length !== 0 && <sup></sup>}</i>
         <i class="fa-regular fa-heart like" onClick={() => setOpenLikedProdsModal(true)}></i>
